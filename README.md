@@ -1,4 +1,4 @@
-Pascal's Triangle Generator
+Pascal Triangle Generator
 This Python script generates Pascal's Triangle up to the specified number of rows and returns it as a list of lists of integers. Pascal's Triangle is a fascinating mathematical structure that represents binomial coefficients. Each number in the triangle is the sum of the two numbers directly above it.
 
 Prerequisites
